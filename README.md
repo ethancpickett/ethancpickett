@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20Workbench-orange)
 ![R](https://img.shields.io/badge/R-Analytics%20%26%20Tidyverse-success)
-![Data Analyst & Tax Accountant](https://img.shields.io/badge/Domain-Tax%20Professional%20%26%20Bookkeeper-lightgrey)
+![Data Analyst & Tax Accountant](https://img.shields.io/badge/Domain-Data%20Analyst%20%26%20Tax%20Accountant-lightgrey)
 
 ---
 
