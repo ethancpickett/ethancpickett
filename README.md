@@ -7,12 +7,12 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 I am a tax professional, bookkeeper, and data enthusiast based in Fort Collins, Colorado. My work bridges domain-specific financial compliance with modern software engineering and data analytics—automating ledger pipelines, building interactive dashboards, and enforcing strict data integrity.
 
 ---
 
-### 🚀 Featured Portfolio Projects
+###  Featured Portfolio Projects
 
 * **[financial-etl-pipeline](https://github.com/ethancpickett/financial-etl-pipeline):** Enterprise-grade Python and SQL ETL pipeline for multi-source financial data ingestion and auditing.
 * **[r-financial-eda](https://github.com/ethancpickett/r-financial-eda):** Exploratory data analysis and publication-ready statistical visualizations engineered in R using Tidyverse and ggplot2.
@@ -22,7 +22,7 @@ I am a tax professional, bookkeeper, and data enthusiast based in Fort Collins, 
 
 ---
 
-### 🛠️ Core Skills & Expertise
+###  Core Skills & Expertise
 * **Accounting & Tax:** QuickBooks Online ProAdvisor, general bookkeeping, financial statement analysis, tax compliance.
 * **Languages & Scripting:** Python, R, SQL, Markdown.
 * **Data & BI:** Pandas, SQLAlchemy, MySQL Workbench, Tidyverse, ggplot2, Tableau/Power BI.
