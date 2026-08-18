@@ -1,16 +1,31 @@
-## Hi there 👋
+### Hi there, I'm Ethan C. Pickett 👋
 
-<!--
-**ethancpickett/ethancpickett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL%20Workbench-orange)
+![R](https://img.shields.io/badge/R-Analytics%20%26%20Tidyverse-success)
+![Tax & Accounting](https://img.shields.io/badge/Domain-Tax%20Professional%20%26%20Bookkeeper-lightgrey)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I am a tax professional, bookkeeper, and data enthusiast based in Fort Collins, Colorado. My work bridges domain-specific financial compliance with modern software engineering and data analytics—automating ledger pipelines, building interactive dashboards, and enforcing strict data integrity.
+
+---
+
+### 🚀 Featured Portfolio Projects
+
+* **[financial-etl-pipeline](https://github.com/ethancpickett/financial-etl-pipeline):** Enterprise-grade Python and SQL ETL pipeline for multi-source financial data ingestion and auditing.
+* **[r-financial-eda](https://github.com/ethancpickett/r-financial-eda):** Exploratory data analysis and publication-ready statistical visualizations engineered in R using Tidyverse and ggplot2.
+* **[bi-financial-dashboard](https://github.com/ethancpickett/bi-financial-dashboard):** Business intelligence architecture featuring complex SQL KPI aggregation queries for executive P&L and expense variance tracking.
+* **[security-log-parser](https://github.com/ethancpickett/security-log-parser):** Python security utility for regex-based system log auditing and automated OpenPGP file encryption.
+* **[spreadsheet-automation-agent](https://github.com/ethancpickett/spreadsheet-automation-agent):** Automated Python bookkeeping agent for programmatic VLOOKUPs, data merging, and financial summary reports.
+
+---
+
+### 🛠️ Core Skills & Expertise
+* **Accounting & Tax:** QuickBooks Online ProAdvisor, general bookkeeping, financial statement analysis, tax compliance.
+* **Languages & Scripting:** Python, R, SQL, Markdown.
+* **Data & BI:** Pandas, SQLAlchemy, MySQL Workbench, Tidyverse, ggplot2, Tableau/Power BI.
+* **Security & Systems:** GnuPG / Kleopatra (OpenPGP), regex log analysis, version control (Git/GitHub).
+
+---
