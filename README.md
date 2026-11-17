@@ -1,6 +1,6 @@
 ### Hi there, I'm Ethan C. Pickett 👋
 
-![Python](https://img.shields.io/badge/Python-3.10%2B-lavender)
+![Python](https://img.shields.io/badge/Python-3.10%2B-red)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20Workbench-orange)
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=teal)
 ![R](https://img.shields.io/badge/R-Analytics%20%26%20Tidyverse-success)
