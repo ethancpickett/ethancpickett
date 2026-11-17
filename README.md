@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-red)
 ![SQL](https://img.shields.io/badge/SQL-MySQL%20Workbench-orange)
-![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=teal)
-![R](https://img.shields.io/badge/R-Analytics%20%26%20Tidyverse-success)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6%2B-2ea44f?style=flat&logo=javascript&logoColor=yellow)
+![R](https://img.shields.io/badge/R-Analytics%20%26%20Tidyverse-%23008080)
 ![Domain](https://img.shields.io/badge/Domain-Programming%20Analyst%20%2F%20Tax%20Accountant-informational)
 
 ---
