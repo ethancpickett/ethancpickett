@@ -5,6 +5,7 @@
 ![JavaScript ES6+](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![R](https://img.shields.io/badge/R-Analytics%20%26%20Tidyverse-success)
 ![Data Analyst & Tax Accountant](https://img.shields.io/badge/Domain-Data%20Analyst%20%26%20Tax%20Accountant-lightgrey)
+![Domain](https://img.shields.io/badge/Domain-Software%20Engineer%20%26%20Tax%20Automation-blue)
 
 ---
 
