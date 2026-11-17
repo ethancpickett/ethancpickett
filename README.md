@@ -9,7 +9,7 @@
 ---
 
 ###  About Me
-I am an accounting professional & data analyst based in Fort Collins, Colorado. My work bridges domain-specific financial & tax compliance with modern software engineering, modern data analytics and algorithms—automating ledger pipelines, building interactive dashboards, and enforcing strict data integrity that directly translates to financial accuracy.
+I am an accounting professional & data analyst based in Fort Collins, Colorado. My work bridges domain-specific financial & tax compliance with modern software engineering, data analytics and algorithms—automating ledger pipelines, building interactive dashboards, and enforcing strict data integrity that directly translates to financial accuracy.
 
 ---
 
