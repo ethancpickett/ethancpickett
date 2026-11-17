@@ -16,6 +16,7 @@ I am a programming analyst and tax accountant based in Fort Collins, Colorado. M
 ###  Featured Portfolio Projects
 
 - **[CSV-KPI-Engine](https://github.com/ethancpickett/CSV-KPI-Engine):** Automated Python and SQL data pipeline for financial dataset ingestion, cleaning, tiered commission computations, and audit-ready Excel exports.
+- **[CTD-Advanced-API-Webpage-Project](https://ethancpickett.github.io/CTD-Advanced-API-Webpage-Project/):** Interactive full-stack JavaScript web application featuring dual-endpoint Open-Meteo API integration, dynamic DOM rendering, and live weather forecasting.
 - **[financial-etl-pipeline](https://github.com/ethancpickett/financial-etl-pipeline):** Enterprise-grade Python and SQL ETL pipeline for multi-source financial data ingestion and auditing.
 - **[r-financial-eda](https://github.com/ethancpickett/r-financial-eda):** Exploratory data analysis and publication-ready statistical visualizations engineered in R using Tidyverse and ggplot2.
 - **[bi-financial-dashboard](https://github.com/ethancpickett/bi-financial-dashboard):** Business intelligence architecture featuring complex SQL KPI aggregation queries for executive P&L and expense variance tracking.
